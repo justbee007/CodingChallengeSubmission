@@ -1,0 +1,202 @@
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 05:20:38] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 05:20:57] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 05:22:01] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 05:22:15] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 05:22:32] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 07:28:28] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 07:28:28] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 07:59:26] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 07:59:26] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 08:22:30] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 08:22:34] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:26:37] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:26:52] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:29:13] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:29:30] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:42:22] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:42:23] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:42:57] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:42:57] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:43:23] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:43:23] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:43:38] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:43:38] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:45:13] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:45:13] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:45:50] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:45:50] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:46:50] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:46:50] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:46:59] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:46:59] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:48:28] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:48:28] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:49:21] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:49:21] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:49:22] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:49:22] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:50:27] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:50:27] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:51:03] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:51:03] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:54:07] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:54:08] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:54:52] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:54:52] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:55:00] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:55:00] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:58:59] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:58:59] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:59:12] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:59:12] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:59:57] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 10:59:57] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:00:41] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:00:41] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:00:45] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:01:11] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:01:11] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:02:14] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:02:14] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:02:27] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:02:27] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:03:44] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:03:44] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:03:47] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:04:07] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:04:07] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:04:10] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:04:48] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:04:49] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:05:00] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:05:00] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:05:43] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:05:43] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:05:55] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:05:55] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:06:17] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:06:17] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:07:03] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:07:03] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:07:04] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:07:35] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:07:35] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:07:51] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:07:51] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:08:08] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:08:08] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:08:14] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:08:14] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:08:18] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:08:37] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:08:37] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:09:01] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:09:01] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:09:39] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:09:39] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:09:46] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:09:46] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:11:45] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:11:45] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:11:46] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:11:46] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:12:51] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:12:51] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:12:52] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:12:52] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:28] "OPTIONS /create_phrase HTTP/1.1" 200 -
+ERROR:app:invalid literal for int() with base 10: 'None'
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:28] "[35m[1mPOST /create_phrase HTTP/1.1[0m" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\werkzeug\serving.py", line 324, in run_wsgi
+    execute(self.server.app)
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\werkzeug\serving.py", line 313, in execute
+    application_iter = app(environ, start_response)
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\flask\app.py", line 2091, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\flask\app.py", line 2076, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\flask_cors\extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\flask\app.py", line 1519, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\flask\app.py", line 1538, in finalize_request
+    response = self.make_response(rv)
+  File "c:\D\codingChallengeSubmission\server\venv\lib\site-packages\flask\app.py", line 1702, in make_response
+    f"The view function for {request.endpoint!r} did not"
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:29] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:29] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:49] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:49] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:59] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:14:59] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:15:19] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:15:19] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:21:20] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:21:20] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:21:33] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:21:33] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:21:57] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:21:57] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:22:23] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:22:23] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:22:46] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:22:46] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:23:36] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:23:36] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:23:44] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:23:44] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:24:03] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:24:03] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:24:38] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:24:38] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:24:55] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:24:55] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:27:22] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 11:27:22] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:10:47] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:10:48] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:10:58] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:10:58] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:11:06] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:11:06] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:11:16] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:11:16] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:31:06] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:31:24] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:32:22] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:32:22] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:32:35] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:32:35] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:32:48] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:32:48] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:37:55] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:38:26] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:38:52] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:38:57] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:39:12] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:39:17] "POST /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:43:46] "OPTIONS /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:43:46] "POST /getzipcodes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:44:04] "OPTIONS /create_phrase HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 12:44:05] "POST /create_phrase HTTP/1.1" 200 -
